@@ -51,7 +51,106 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/al-folio/blog/";
               },
-            },{id: "post-learning-jun-13",
+            },{id: "post-learning-jul-22",
+        
+          title: "Learning Jul 22",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/learning-jul-22/";
+          
+        },
+      },{id: "post-learning-jul-16",
+        
+          title: "Learning Jul 16",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/learning-jul-16/";
+          
+        },
+      },{id: "post-learning-jul-15",
+        
+          title: "Learning Jul 15",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/learning-jul-15/";
+          
+        },
+      },{id: "post-learning-jul-14",
+        
+          title: "Learning Jul 14",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/learning-jul-14/";
+          
+        },
+      },{id: "post-learning-jul-13",
+        
+          title: "Learning Jul 13",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/learning-jul-13/";
+          
+        },
+      },{id: "post-learning-jul-11",
+        
+          title: "Learning Jul 11",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/learning-jul-11/";
+          
+        },
+      },{id: "post-learning-jul-10",
+        
+          title: "Learning Jul 10",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/learning-jul-10/";
+          
+        },
+      },{id: "post-learning-jun-24",
+        
+          title: "Learning Jun 24",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/learning-jun-24/";
+          
+        },
+      },{id: "post-learning-jun-23",
+        
+          title: "Learning Jun 23",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/learning-jun-23/";
+          
+        },
+      },{id: "post-learning-jun-13",
         
           title: "Learning-Jun-13",
         
