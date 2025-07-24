@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "28a3af49eedb59a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e379b8e8a104c9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e61592f7b8d099a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-06-24-learning-jun-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-24-learning-jun-24"
+            }
+          },
+          {
+            "id": "67441046f18c2aee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-07-15-learning-jul-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-15-learning-jul-15"
+            }
+          },
+          {
+            "id": "9dabef9f1498df02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-07-16-learning-jul-16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-16-learning-jul-16"
+            }
+          },
+          {
+            "id": "a520615be7940da9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-07-22-learning-jul-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-22-learning-jul-22"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56f77ddca1ad52cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "760e1aed79deb8f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c7986906bc2d1aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9b78d3c7ffcb138d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "38a79251dd39ccfc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "804c9d2ffb0049c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9c1254528b1f30e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9ffb5952d9949cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-06-24-learning-jun-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-06-24-learning-jun-24"
+            }
+          },
+          {
+            "id": "c30db76d9a0d5abf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-06-24-learning-jun-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-06-24-learning-jun-24"
+            }
+          },
+          {
+            "id": "2a8c4b2251786ff2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "25ad1fc394ae1a2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-06-24-learning-jun-24.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-06-24-learning-jun-24"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "a520615be7940da9",
+  "lastOpenFiles": [
+    "2025-07-22-learning-jul-22.md",
+    "2025-07-16-learning-jul-16.md",
+    "2025-07-10-learning-jul-10.md",
+    "2025-06-24-learning-jun-24.md",
+    "2025-07-11-learning-jul-11.md",
+    "2025-07-13-learning-jul-13.md",
+    "2025-07-14-learning-jul-14.md",
+    "2025-07-15-learning-jul-15.md",
+    "jekyll-post.md.md",
+    "2025-06-23-learning-jun-23.md",
+    "Untitled 1.md",
+    "2025-06-13-learning-jun-13.md",
+    "2025-06-05-learnings-6-5-2025.md",
+    "Learning 2025 06 23.md",
+    "2025-06-12-learning-jun-12.md",
+    "2023-04-25-audios.md",
+    "2025-06-10-learnings-jun-10.md",
+    "2015-03-15-formatting-and-links.md",
+    "2015-07-15-code.md"
+  ]
+}

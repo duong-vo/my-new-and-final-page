@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Learning Jun 23"
+date: 2025-06-23
+categories: [blog]
+---
+- A lot of political stuff happens in the past few days but still there're some interesting things to look at
+- A potential M&A gonna happen is that Thien Long Group (company that provide stationery and such) will be acquiring Phuong Nam corp, a bookstore chain. Both of these guys are well known players and this could be a play for me to look in to lock in some profit, as Buffett says, when the market level is expensive, it's better to have these M&A stocks.
+	- So upon reviewing TLG is a really strong compounding business that manage to 10x its size over the last 10 years and its cheap relative to its earnings. However, it's an established enterprise now and it seems that it's struggling to grow more. Still, not enough conviction and not cheap enough for me to buy this. Following this merger though, TLG maybe undervalued with relative to its price in the long term for me to hold. However, I feel that it's not cheap enough and I still don't have enough conviction to make a long term call that worth the price. This is still speculating and needs a lot of things to go right in order to make a profit, unlike in distressed and cheap company that just 1 thing going right will tip the balance
+- Read through some news and Musk's new robotaxi caught my eye. It definitely cause a huge jump in Tesla stock. I read through an article by Ark Investment (a pretty infamous firm that focuses on disrupting technology and place insane valuation for disruptive stocks), put Tesla to be worth 5 times it currently worth in the next 4 years. Pretty insane, but they make the right early call in Tesla and Palantir so they're might be right.
+- Today, I also see that Michael Burry has sold all of his positions, which a large positions in Chinese stocks, and holding put options (essentially shorting) NVIDIA and Chinese Stocks. So he's in my camp as well to sell off a lot of his positions  and be reserve. I've missed a huge rise of STB compared to a concentrated portfolio but it's whatever, I still keep the profit from holding it
