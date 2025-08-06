@@ -17,4 +17,4 @@ categories: [blog]
 Start writing here.
 EOF
 
-echo "Created $filename"
+echo "Created t $filename"
