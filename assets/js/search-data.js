@@ -51,7 +51,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/al-folio/blog/";
               },
-            },{id: "post-learning-jul-22",
+            },{id: "post-learning-aug-06",
+        
+          title: "Learning Aug 06",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/learning-aug-06/";
+          
+        },
+      },{id: "post-learning-aug-04",
+        
+          title: "Learning Aug 04",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/learning-aug-04/";
+          
+        },
+      },{id: "post-learning-jul-22",
         
           title: "Learning Jul 22",
         
