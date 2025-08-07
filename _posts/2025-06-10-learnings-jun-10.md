@@ -1,9 +1,10 @@
 ---
+title: Learnings-Jun-10
+date: 2025-06-10 00:00:00 Z
+categories:
+- blog
 layout: post
-title: "Learnings-Jun-10"
-date: 2025-06-10
 related_posts: false
-categories: [blog]
 ---
 
 - Contrary to my estimation, STB is still rising strong despite the tariff uncertainty, I already liquidate half of my position so there is no good reentry point, but again, conservative is better and it's still a month before everything plays out on July 9th

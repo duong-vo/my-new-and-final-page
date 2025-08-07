@@ -1,10 +1,13 @@
 ---
-layout: post
 title: a post that can be cited
-date: 2024-04-28 15:06:00
+date: 2024-04-28 15:06:00 Z
+categories:
+- sample-posts
+tags:
+- formatting
+- citation
+layout: post
 description: this is what a post that can be cited looks like
-tags: formatting citation
-categories: sample-posts
 citation: true
 ---
 

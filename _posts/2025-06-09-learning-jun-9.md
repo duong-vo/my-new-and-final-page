@@ -1,9 +1,10 @@
 ---
+title: Learning-Jun-9
+date: 2025-06-09 00:00:00 Z
+categories:
+- investing
 layout: post
-title: "Learning-Jun-9"
-date: 2025-06-09
 related_posts: false
-categories: [investing]
 ---
 
 - Market lost 20 points which is expected but still no opportunity arises from it. I'm still trying to look through some predictable and cheap business that I can invest in as a value play but still not that fruitful. Some stocks I've looked through:

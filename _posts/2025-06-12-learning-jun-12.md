@@ -1,9 +1,10 @@
 ---
+title: Learning-Jun-12
+date: 2025-06-12 00:00:00 Z
+categories:
+- blog
 layout: post
-title: "Learning-Jun-12"
-date: 2025-06-12
 related_posts: false
-categories: [blog]
 ---
 
 - My STB position balloon to 20% return now but with only half of my capital, anyway it's a special situation stock and it's not my idea so it's kinda hard to know when to buy and when to exit, but I can kinda understand the stock where we just need a dividend yield to kick in and it will balloon in value.

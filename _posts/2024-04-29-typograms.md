@@ -1,10 +1,13 @@
 ---
-layout: post
 title: a post with typograms
-date: 2024-04-29 23:36:10
+date: 2024-04-29 23:36:10 Z
+categories:
+- sample-posts
+tags:
+- formatting
+- diagrams
+layout: post
 description: this is what included typograms code could look like
-tags: formatting diagrams
-categories: sample-posts
 typograms: true
 ---
 

@@ -1,9 +1,11 @@
 ---
+title: Learning Jun 23
+date: 2025-06-23 00:00:00 Z
+categories:
+- blog
 layout: post
-title: "Learning Jun 23"
-date: 2025-06-23
-categories: [blog]
 ---
+
 - A lot of political stuff happens in the past few days but still there're some interesting things to look at
 - A potential M&A gonna happen is that Thien Long Group (company that provide stationery and such) will be acquiring Phuong Nam corp, a bookstore chain. Both of these guys are well known players and this could be a play for me to look in to lock in some profit, as Buffett says, when the market level is expensive, it's better to have these M&A stocks.
 	- So upon reviewing TLG is a really strong compounding business that manage to 10x its size over the last 10 years and its cheap relative to its earnings. However, it's an established enterprise now and it seems that it's struggling to grow more. Still, not enough conviction and not cheap enough for me to buy this. Following this merger though, TLG maybe undervalued with relative to its price in the long term for me to hold. However, I feel that it's not cheap enough and I still don't have enough conviction to make a long term call that worth the price. This is still speculating and needs a lot of things to go right in order to make a profit, unlike in distressed and cheap company that just 1 thing going right will tip the balance
