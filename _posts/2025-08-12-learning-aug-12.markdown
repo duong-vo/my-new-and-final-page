@@ -3,6 +3,7 @@ title: Learning Aug 12
 date: 2025-08-12 22:00:00 Z
 categories:
 - blog
+layout: post
 ---
 
 **Catch up on the market**\
