@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/my-new-and-final-page/blog/";
               },
-            },{id: "post-learning-aug-11",
+            },{id: "post-learning-aug-12",
+        
+          title: "Learning Aug 12",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/my-new-and-final-page/blog/2025/learning-aug-12/";
+          
+        },
+      },{id: "post-learning-aug-11",
         
           title: "Learning Aug 11",
         
