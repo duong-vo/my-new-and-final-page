@@ -1,0 +1,14 @@
+---
+title: Learning Aug 14
+date: 2025-08-14 22:26:00 Z
+layout: post
+---
+
+**Catching up on the market**\
+As soon as I ponder selling, my MBB went to the roof from opening to end as the market boast 52 trillion dong (a strong money is any where above 25 trillion, or 1 billion dollar in volume), so money are still coming in despite the overvalue. It's thought to be because some catalyst about banking but I don't care about that anymore, I'm more about strong business with tangible value. We all know that the market craze of small money can drive up the price and let's see if the momentum is still going strong\
+\
+**Catching up on the news**\
+Above is the news, right now I don't see any M&A or workout yet I can put into my portfolio.
+
+**Other**\
+Was reading a blog by John Huber and it makes me think again about strong business from Munger point of view. Buffett generally wants an extremely strong moat (like Apple and Coca Cola) for a business to function, however, some does not have a strong moat but still able to generate big returns (Huber mentions O'Reily,  Autozone, Home Depot, and Tractor Supply, and we also have Costco, Walmart in the world of Stop and Shop, Kroger, etc). So extremely big moats are a sure thing but rare, while we still have some other thing that can classify as a good business at fair price. Two good retails, first is as wide as possibe with the cheapest price (Walmart sells clothes, grocery, furniture, etc., the same with Costco and Amazon), second is specialty stores in niche market that is once dominated in mom and pop and now slowly transitioned to franchise that offer cheap products. Looking at Vietnam retail, not an example that I can think of. VRE is just a bunch of other brands, essentially a mall, Coop mart and Big C and so on are just in the grocery department, and we know that Kroger, Stop and Shop, ALDI are nothing compared to Walmart. Other retail like TGDD, MSN, FPT are going into retail but with different and separate units and not all together like a supercenter of Walmart or Costco. One of the brand that I think could expand is GearVn which sells wide range of gaming parts for gamer and obviously will dominate that compared to other smaller competitor or general like Phong Vu and so on. But Vietnam is missing a Walmart type business and obviously business in the US is so much different from business in Vietnam so even these thing could not translate into a good business in Vietnam, but sounds really promising about the specialty store chain being a standalone strong business. Looking at gaming parts in the US, there's no strong chain, but there's GameStop, so there you go, I'm getting the hang of the business now.
