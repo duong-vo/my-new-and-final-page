@@ -15,4 +15,5 @@ New news on new positions of big value investor as well, Michael Burry started b
 **Learning**\
 From the book about Bezos and Amazon and his thinking about narrative fallacy coined by Taleb in Black Swan (which I haven't read). Basically, people can easily fall into the trap of simplifying any phenomenon, be it in the stock market or whatever into a simple causation, even though it's inherently have no connection. For example, I remember some philosophy concept by Hume or something says Day Happen after Night, which means Day causes Night, which is just inherently wrong. The same with stock market, I fell into this where as a catalyst, banks set high target for credit = bank stocks rises, or divestment from SCIC = stock rises, which in fact they have no inherent connection. Looks like other executives must read Black Swan at Amazon as well.
 
-**Other**
+**Other**\
+Nothing
