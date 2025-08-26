@@ -1,0 +1,15 @@
+---
+title: Learning 08/26/2025
+date: 2025-08-26 22:04:00 Z
+---
+
+**Catch up on the market**
+Market bounce back, not much of a surprise, but the market is like an elephant on a tree. Nobody knows why it's there, but we know it will fall down soon. The problem is when, and can the elephant climb higher. From what I feel, it could probably climb higher since the market still not have overeager selling from the small money side. I will still hold on to my investment and not sell soon.
+
+**Catch up on the news**
+News on the sugar market again. I've been eyeing the sugar market and am aware of the pirated sugar and looks like the government is looking to solve this problem, now just look at the best sugar business at a cheap price to buy to catch the tailwind.
+I did not realize the there is a Ford retail company in Vietnam through this M&A news. https://vietstock.vn/2025/08/tan-thanh-do-muon-gom-them-co-phieu-ctf-739-1345659.htm. I mean the brand is there but terrible financial but might worth taking a look since the brand name is really underappreciated.
+Well nevermind, it's just a standalone showroom retailer that has to compete with 10 other showroom. Terrible, terrible business. https://forddaily.com/dai-ly/
+**Learning**
+
+**Other**
