@@ -1,0 +1,16 @@
+---
+title: Learning 09/08/2025
+date: 2025-09-08 21:50:00 Z
+---
+
+**Catch up on the market**\
+Market drops again with more than 2 billion dollar in volume. It's been a while since I look at the market but since it's in an elevated level, not much opportunity I could find I guess. Apparently my graham stocks still overperform the market thanks solely to HSL position (this is a hypothetical position btw)
+
+**Catch up on the news**\
+Kraft and Heinz has been separated and Buffett is not happy, this is a complex deal so I'm not gonna dive in too deep about it.\
+TTA apparently has people buying in. The stock has really high EBITDA margin for some reason. Not much happening anyway. No M&A news that I've spotted yet this year
+
+**Learning**\
+Read through these insights by Rob Vinall, can tell that he's also another smart guy that I should follow: https://www.rvcapital.ch/post/first-half-2025-letter-to-co-investors. I've been quite detached recently but people like these make it fun to absorb and learn. He has some amazing insights about the AI era we're living in and what could happen to navigate on the market. AI is similar to the dot-com bubble is that it's a new game changing technology, and we're seeing the same things where it's not the company itself that is profitable, it's provider, i.e NVIDIA, TSMC, and so on. I love his analogy, "companies selling shovels in a gold rush". Absolutely correct, the AI players are not profitable (yet), only the shovels one. Similar to dotcom, the networking companies like Cisco makes money. Maybe even the best AI companies/businesses are not founded yet (he mentions that could you predict Uber, Facebook, and Google, so on when the dot com just get started). This is the time to not think about what you can do with AI, but what's profitable with AI that create a huge moat around it, a trillion dollar idea. Of course I don't care about it but just thinking about it would be helpful and fun.
+
+**Other**
