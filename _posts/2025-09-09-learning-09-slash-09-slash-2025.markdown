@@ -9,6 +9,6 @@ Market a bit muted, again, don't really care about what happen to the market unl
 **Catch up on the news**\
 Nothing really new
 
-Learning
+**Learning**
 
-Other
+**Other**
