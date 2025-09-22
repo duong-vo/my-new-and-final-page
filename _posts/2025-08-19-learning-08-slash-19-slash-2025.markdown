@@ -1,6 +1,7 @@
 ---
 title: Learning 08/19/2025
 date: 2025-08-19 21:35:00 Z
+layout: post
 ---
 
 **Catch up on the market**\
