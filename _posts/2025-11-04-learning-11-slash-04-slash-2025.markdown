@@ -15,6 +15,7 @@ The market is in a heavy volatility phase, I'm a bit busy recently and could not
 
 **Catch up on the news**\
 Seems like michael burry just short NVIDIA. I'm not a big AI fan as a business, sure it's a huge thing but as a business, I'm not sold on it yet. I want to refer back to Rob Vinal's thought about AI stocks, it could be a starting point for an amazing business but it's too early (like the dot com era), but companies are more conscious of spending now and all in private market so it's not affected by the public market.
+https://www.cnbc.com/2025/11/04/karp-big-short-burry-palantir-nvidia.html
 
 **Learning**\
 ![shared_image.jpg](https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI2ODkzZWVjZTY3YTFmZTQ3MzE3ZjljYTIvYXNzZXRzLzY5MGE5MGUzODNhNzliNDc3MjJmODU0Zi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==)
