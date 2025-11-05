@@ -17,9 +17,9 @@ The market is in a heavy volatility phase, I'm a bit busy recently and could not
 Seems like michael burry just short NVIDIA. I'm not a big AI fan as a business, sure it's a huge thing but as a business, I'm not sold on it yet. I want to refer back to Rob Vinal's thought about AI stocks, it could be a starting point for an amazing business but it's too early (like the dot com era), but companies are more conscious of spending now and all in private market so it's not affected by the public market.
 
 **Learning**\
-![shared_image.jpg](/uploads/shared_image.jpg)
+![shared_image.jpg](https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI2ODkzZWVjZTY3YTFmZTQ3MzE3ZjljYTIvYXNzZXRzLzY5MGE5MGUzODNhNzliNDc3MjJmODU0Zi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==)
 
-This reminds me of 
+This reminds me of the outsiders of what good management are
 
 **Other**\
 Still a very chaotic lifestyle, so many things I want to do and I end up doing nothing. Also the way I read and keep track knowledge is also a bit chaotic, I hear about concepts but then don't know where to find it back, need to work on this. Also, I'm at a point where I'm not sure about things. I'm sold on value investing but in Vietnam's market, I've been underperforming (only for a few months but let's see, it's a long term game). My father use bollinger bands, which is basically technical analysis. Obviously it works because we manage to anticipate and build models that anticipates the future well, but still, in terms of business, it's still needed, MBB, STB, TPB are all good stocks underlying so yeah, business still wins.
