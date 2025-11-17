@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/my-new-and-final-page/blog/";
               },
-            },{id: "post-learning-11-04-2025",
+            },{id: "post-synthesis-nov-9-nov-16-2025",
+        
+          title: "Synthesis Nov 9 - Nov 16 2025",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/my-new-and-final-page/blog/2025/synthesis-nov-9-nov-16-2025/";
+          
+        },
+      },{id: "post-learning-11-04-2025",
         
           title: "Learning 11/04/2025",
         
