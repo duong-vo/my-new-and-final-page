@@ -1,6 +1,7 @@
 ---
 title: Synthesis Nov 9 2025 - Nov 16 2025
 date: 2025-11-17 01:41:00 Z
+layout: post
 ---
 
 **Notable things**\
